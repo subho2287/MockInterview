@@ -1,8 +1,0 @@
-{
-  "/api/questions/route": "app/api/questions/route.js",
-  "/page": "app/page.js",
-  "/api/send-email/route": "app/api/send-email/route.js",
-  "/interview/page": "app/interview/page.js",
-  "/api/analyze/route": "app/api/analyze/route.js",
-  "/results/page": "app/results/page.js"
-}
